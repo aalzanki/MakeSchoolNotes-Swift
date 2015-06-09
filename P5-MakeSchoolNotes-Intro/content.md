@@ -6,7 +6,7 @@ slug: makeschoolnotes-intro
 That time has come to make your first *real* app, your own version of the classic *Notes* app.  After finishing the *SimpleApp* tutorial you should have an understanding
 of how to use Xcode and the fundamental building blocks of how an App is put together.  
 
-In this tutorial we will build upon that knowledge to build a fully fledged application that will touch upon many beginner and intermediate development topics. 
+In this tutorial, we will build upon that knowledge to build a fully fledged application that will touch upon many beginner and intermediate development topics. 
 
 We are going to be looking at the following topics:
 
@@ -15,7 +15,7 @@ We are going to be looking at the following topics:
 - Delegates, protocols and extensions
 - Local storage and Realm
 - Creating notes 
-- Using Seques
+- Using Segues
 - Capturing User Input
 - Keyboard Handling
 - Constraints
@@ -23,7 +23,7 @@ We are going to be looking at the following topics:
 
 We will touch on other topics through the course of this tutorial. However, this is an outline of the skills and questions you will be able to answer by the end of this tutorial.
 
-By the end of it you will have a good understanding of building a complete iOS utility app. This will put you in good stead for our next tutorial, *Makestagram*!
+By the end of it, you will have a good understanding of building a complete iOS utility app. This will put you in good stead for our next tutorial, *Makestagram*!
 
 ##Getting Started
 
