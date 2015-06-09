@@ -178,6 +178,7 @@ Remeber when you added the `UITableViewDataSource` protocol extension? These fun
 > with
 >
     return Int(notes?.count ?? 0)
+> Note that `??` would return `notes?.count` if the optional evaluates successfully; otherwise, it would return 0.
 >
 
 Finally, it's time to Run the App!
