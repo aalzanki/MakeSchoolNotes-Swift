@@ -161,7 +161,8 @@ Remember when you added the `UITableViewDataSource` protocol extension? These fu
 > Replace the following code in `tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath)`
 >
     let row = indexPath.row
-    cell.textLabel?.text = "Hello World"
+    cell.titleLabel.text = "Hello"
+    cell.dateLabel.text  = "Today"
 >
 > with
 > 
