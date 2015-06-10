@@ -90,7 +90,7 @@ a note and deletes it, this can then replace both chunks of `Delete` code.
 Time to create an interface to present our Note information and move us towards being able to edit this information. 
 
 > [action]
-> 1. Open `Main.storyboard` and locate your `New Display View controller Scene`
+> 1. Open `Main.storyboard` and locate your `Note Display View controller Scene`
 > 2. Add a `Scroll View` to your main `View`, your notes have the potential to contain a lot of content so you want to ensure the user can scroll through them.
 > 3. Add a `Text Field` to your `Scroll View` near the top, this will be used to display the title.
 > 4. Add a `Text View` in your `Scroll View` and add it below your `Text Field` this will be used to display the content.
